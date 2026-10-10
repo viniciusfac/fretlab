@@ -1,6 +1,6 @@
 {
   "id": "./",
-  "name": "FretLab - Assistente de Estudos Musical (3.4.4)",
+  "name": "FretLab - Assistente de Estudos Musical (3.4.5)",
   "short_name": "FretLab",
   "description": "Assistente de estudo, prática e evolução na guitarra",
   "start_url": "./",
@@ -22,5 +22,5 @@
       "purpose": "any maskable"
     }
   ],
-  "version": "3.4.3"
+  "version": "3.4.5"
 }
